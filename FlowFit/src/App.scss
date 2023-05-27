@@ -6,9 +6,6 @@
         color: inherit;
     }
 
-    body{
-        height: 100vh;
-    }
     ::-webkit-scrollbar {
         width: 4px;
         height: 0px;
@@ -33,4 +30,6 @@
     --primary-color: #1b8287;
     --secondary-color: #313244;
     --dark-color: #1f202c;
+    --white-color: #fff;
+    --bleck-color: #000;
 }
