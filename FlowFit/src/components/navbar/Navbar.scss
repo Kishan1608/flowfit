@@ -61,5 +61,26 @@
         font-weight: 900;
         font-size: 18px;
         padding: 10px 0px;
+
+        .prod{
+            cursor: pointer;
+            position: relative;
+            display: flex;
+            align-items: center;
+            width: 100px;
+            .options{
+                position: absolute;
+                top: 30px;
+                right: 0;
+                background-color: #fff;
+                display: flex;
+                flex-direction: column;
+                padding: 10px;
+                border-radius: 5px;
+                gap: 10px;
+                width: 120px;
+                border: 1px solid var(--primary-color);
+            }
+        }
     }
 }

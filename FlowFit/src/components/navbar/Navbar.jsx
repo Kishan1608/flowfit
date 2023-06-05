@@ -1,8 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
 import {Link} from 'react-router-dom';
+import {AiFillCaretDown} from 'react-icons/ai';
 import './Navbar.scss';
 
 const Navbar = () => {
+    const[open ,setOpen] = useState(false);
   return (
     <div className="navbar">
         <div className="container">
@@ -37,7 +39,18 @@ const Navbar = () => {
                 <Link className='link' to='/services'>Services</Link>
             </div>
             <div>
-                <Link className='link' to='/products'>Products</Link>
+                <div className='prod' onClick={() =>{setOpen(!open)}}>Products <AiFillCaretDown />
+                {
+                    open && <div className="options"> 
+                        <Link className='link' to='/doubleferrule'>Double Ferrule</Link>
+                        <Link className='link' to='/pipefitting'>Pipe Fitting</Link>
+                        <Link className='link' to='/needleValve'>Needle Valve</Link>
+                        <Link className='link' to='/manifoldValve'>Manifold Valve</Link>
+                        <Link className='link' to='/thermowell'>Thermo Well</Link>
+                        <Link className='link' to='/checkValve'>Check Valve</Link>
+                    </div>
+                }
+                </div>
             </div>
             <div>
                 <Link className='link' to='contact'>Contact</Link>
