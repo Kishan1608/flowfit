@@ -20,6 +20,10 @@ import ThermoWell from './pages/ThermoWell/ThermoWell';
 import ThermowellDetails from './pages/ThermoWell/ThermowellDetails';
 import CheckValve from './pages/CheckValve/CheckValve';
 import CheckValveDetails from './pages/CheckValve/CheckValveDetails';
+import PressureGauge from './pages/PressureGauge/PressureGauge';
+import BallValve from './pages/BallValve/BallValve';
+import BallValveType from './pages/BallValve/BallValveType';
+import BallValveDetails from './pages/BallValve/BallValveDetails';
 
 function App() {
     const Layout = () => {
@@ -104,6 +108,22 @@ function App() {
                 {
                     path: '/checkValve/:id',
                     element: <CheckValveDetails />
+                },
+                {
+                    path: '/pressureGauge',
+                    element: <PressureGauge />
+                },
+                {
+                    path: '/ballvalve',
+                    element: <BallValve />
+                },
+                {
+                    path: '/ballvalve/:type',
+                    element: <BallValveType />
+                },
+                {
+                    path: '/ballvalve/:type/:id',
+                    element: <BallValveDetails />
                 }
             ]
         }

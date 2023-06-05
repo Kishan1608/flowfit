@@ -22,6 +22,11 @@ const ProductCard = ({item}) => {
               <Link className='link' to={`/needleValve/${item.SeriesURL}`}><button className='btn-view'>View Details</button></Link>
             )
           }
+          {
+            item.URL1 && (
+              <Link className='link' to={`/ballvalve/${item.URL1}/${item.id}`}><button className='btn-view'>View Details</button></Link>
+            )
+          }
         </div>
     </Link>
   )

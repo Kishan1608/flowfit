@@ -2435,3 +2435,157 @@ export const checkValveFeatures = [
         ]
     }
 ]
+
+
+export const pressureGauge = [
+    {
+        id: 1,
+        imageURL: '/img/3-pices-union.jpg',
+        title: '3 PICES UNION'
+    },
+    {
+        id: 2,
+        imageURL: '/img/gauge-cocks.jpg',
+        title: '3 WAY GAUGE COCKS'
+    },
+    {
+        id: 3,
+        imageURL: '/img/2-way-gauge-cockes.jpg',
+        title: '3 WAY GAUGE COCKS'
+    },
+    {
+        id: 4,
+        imageURL: '/img/gauge-syphon.jpg',
+        title: 'GAUGE SYPHON'
+    },
+    {
+        id: 5,
+        imageURL: '/img/pig-tail-syphon.jpg',
+        title: 'PIG TAIL SYPHON'
+    },
+    {
+        id: 6,
+        imageURL: '/img/u-syphon.jpg',
+        title: 'U SYPHON'
+    },
+    {
+        id: 7,
+        imageURL: '/img/safety-valve.jpg',
+        title: 'SAFTEY VALVE'
+    },
+    {
+        id: 8,
+        imageURL: '/img/snubber.jpg',
+        title: 'SNUBBER'
+    },
+    {
+        id: 9,
+        imageURL: '/img/gauge-sever.jpg',
+        title: 'GAUGE SEVER'
+    },
+]
+
+export const ballValve = [
+    {
+        id: 1,
+        URL1: '2way',
+        imageURL: '/img/ball-valve-1.jpg',
+        title: 'Female X Female Square Body',
+        img: [
+            {
+                imageURL: '/img/ball-valve-1-1.png'
+            }
+        ]
+    },
+    {
+        id: 2,
+        URL1: '2way',
+        imageURL: '/img/ball-valve-2.jpg',
+        title: 'Female X Female Round Body',
+        img: [
+            {
+                imageURL: '/img/ball-valve-2-1.png'
+            }
+        ]
+    },
+    {
+        id: 3,
+        URL1: '2way',
+        imageURL: '/img/ball-valve-3.jpg',
+        title: 'Male X Female Round Body',
+        img: [
+            {
+                imageURL: '/img/ball-valve-3-1.png'
+            }
+        ]
+    },
+    {
+        id: 4,
+        URL1: '2way',
+        imageURL: '/img/ball-valve-4.jpg',
+        title: 'Compression Tube Ends Round Body',
+        img: [
+            {
+                imageURL: '/img/ball-valve-4-1.png'
+            }
+        ]
+    },
+    {
+        id: 5,
+        URL1: '2way',
+        imageURL: '/img/ball-valve-5.jpg',
+        title: 'Compression Tube Angle Valve',
+        img: [
+            {
+                imageURL: '/img/ball-valve-5-1.png'
+            }
+        ]
+    },
+    {
+        id: 6,
+        URL1: '3way',
+        imageURL: '/img/ball-valve-7.jpg',
+        title: 'Compression Tube Angle Valve',
+        img: [
+            {
+                imageURL: '/img/ball-valve-7-1.png'
+            }
+        ]
+    },
+    {
+        id: 7,
+        URL1: '3way',
+        imageURL: '/img/ball-valve-6.jpg',
+        title: 'Female X Female X Female',
+        img: [
+            {
+                imageURL: '/img/ball-valve-6-1.png'
+            }
+        ]
+    },
+]
+
+export const ballValveFeatures = [
+    {
+        point: '2-way on-off Switching Models.'
+    },
+    {
+        point: 'Heavy directional handle or lever handle.'
+    },
+    {
+        point: 'Blow-out proof bottom loaded stem. Low operating torque and with panel mounting facilities.'
+    },
+    {
+        point: 'Series of end connections 1/4" to 1" NPT, BSP, BSPT. Male or female threaded ends and 1/4", 3/8" and 1/2" "FTS".'
+    },
+    {
+        point: 'Floating Ball design for positive sealing.'
+    },
+    {
+        title: 'Maximum Working Pressure:',
+        point: '6000 PSI (400 bar) at 20°C to 250°C with TFE Seat.'
+    },
+    {
+        point: 'High Pressure Ball Valve with 10,000 PSI (700 Bar) are available with polyamine or KEF-F seats, for high pressure.'
+    }
+]

@@ -48,6 +48,8 @@ const Navbar = () => {
                         <Link className='link' to='/manifoldValve'>Manifold Valve</Link>
                         <Link className='link' to='/thermowell'>Thermo Well</Link>
                         <Link className='link' to='/checkValve'>Check Valve</Link>
+                        <Link className='link' to='/pressureGauge'>Pressure Gauge</Link>
+                        <Link className='link' to='/ballvalve'>Ball Valve</Link>
                     </div>
                 }
                 </div>

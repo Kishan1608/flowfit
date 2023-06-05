@@ -15,7 +15,6 @@ const DoubleFerruleProducts = () => {
         }
     })
     let image = data.img;
-    console.log(data.imageURL);
 
     return (
         <div className="doubleferrule">
