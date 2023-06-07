@@ -50,6 +50,8 @@ const Navbar = () => {
                         <Link className='link' to='/checkValve'>Check Valve</Link>
                         <Link className='link' to='/pressureGauge'>Pressure Gauge</Link>
                         <Link className='link' to='/ballvalve'>Ball Valve</Link>
+                        <Link className='link' to='/flairconnector'>Flair Connector</Link>
+                        <Link className='link' to='/weldfitting'>Weld Fitting</Link>
                     </div>
                 }
                 </div>

@@ -2589,3 +2589,1000 @@ export const ballValveFeatures = [
         point: 'High Pressure Ball Valve with 10,000 PSI (700 Bar) are available with polyamine or KEF-F seats, for high pressure.'
     }
 ]
+
+export const flairConnector = [
+    {
+        id: 1,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-1.jpg',
+        title: 'FLAIR MALE CONNECTOR, 37° JIC X NPT(SAE 070102)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-1-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-1-2.png',
+                title: '37° JIC X NPT(SAE 070102)'
+            },
+        ]
+    },
+    {
+        id: 2,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-2.jpg',
+        title: 'FLAIR MALE CONNECTOR, 37° JIC X SAE / MS STRAIGHT(SAE070120)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-2-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-2-2.png',
+                title: '37° JIC X SAE / MS STRAIGHT(SAE070120)'
+            },
+        ]
+    },
+    {
+        id: 3,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-3.jpg',
+        title: 'FLAIR FEMALE CONNECTOR, 37° JIC (MALE) X NPT (FEMALE) (SAE 070103)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-3-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-3-2.png',
+                title: '37° JIC (MALE) X NPT (FEMALE) (SAE 070103)'
+            },
+        ]
+    },
+    {
+        id: 4,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-4.jpg',
+        title: 'FLAIR UNION, 37° JIC(SAE 070101)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-4-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-4-2.png',
+                title: '37° JIC(SAE 070101)'
+            },
+        ]
+    },
+    {
+        id: 5,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-5.jpg',
+        title: 'FLAIR REDUCING ADAPTOR , 37° JIC(SAE 070123)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-5-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-5-2.png',
+                title: '37° JIC(SAE 070123)'
+            },
+        ]
+    },
+    {
+        id: 6,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-6.jpg',
+        title: 'FLAIR BULKHEAD UNION, 37° JIC(SAE 070601)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-6-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-6-2.png',
+                title: '37° JIC(SAE 070601)'
+            },
+        ]
+    },
+    {
+        id: 7,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-7.jpg',
+        title: 'FLAIR BULKHEAD LOCK NUT, 37° JIC(SAE 070118)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-7-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-7-2.png',
+                title: '37° JIC(SAE 070118)'
+            },
+        ]
+    },
+    {
+        id: 8,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-8.jpg',
+        title: 'FLAIR TUBE CAPS, 37° JIC(SAE 070118)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-8-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-8-2.png',
+                title: '37° JIC(SAE 070118)'
+            },
+        ]
+    },
+    {
+        id: 9,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-9.jpg',
+        title: 'FLAIR TUBE PLUGS, 37° JIC(SAE 070112)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-9-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-9-2.png',
+                title: '37° JIC(SAE 070112)'
+            },
+        ]
+    },
+    {
+        id: 10,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-10.jpg',
+        title: 'FLAIR MALE ELBOW, 37° JIC (MALE) X NPT (MALE) (SAE 070202)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-10-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-10-2.png',
+                title: '37° JIC (MALE) X NPT (MALE) (SAE 070202)'
+            },
+        ]
+    },
+    {
+        id: 11,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-11.jpg',
+        title: 'FLAIR 45 DEG MALE ELBOW, 37° JIC (MALE) X NPT (MALE) (SAE 070302)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-11-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-11-2.png',
+                title: '37° JIC (MALE) X NPT (MALE) (SAE 070302)'
+            },
+        ]
+    },
+    {
+        id: 12,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-12.jpg',
+        title: 'FLAIR FEMALE ELBOW, 37° JIC (MALE) X NPT (MALE) (SAE 070302)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-12-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-12-2.png',
+                title: '37° JIC (MALE) X NPT (MALE) (SAE 070302)'
+            },
+        ]
+    },
+    {
+        id: 13,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-13.jpg',
+        title: 'FLAIR UNION ELBOW, 37° JIC(SAE 070201)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-13-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-13-2.png',
+                title: '37° JIC(SAE 070201)'
+            },
+        ]
+    },
+    {
+        id: 14,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-14.jpg',
+        title: 'FLAIR MALE BRANCH TEE, 37° JIC X NPT(SAE 070425',
+        img: [
+            {
+                imageURL: '/img/flair-connector-14-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-14-2.png',
+                title: '37° JIC X NPT(SAE 070425)'
+            },
+        ]
+    },
+    {
+        id: 15,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-15.jpg',
+        title: 'FLAIR ADJUSTABLE MALE BRANCH TEE, 37° JIC X NPT(SAE 070425',
+        img: [
+            {
+                imageURL: '/img/flair-connector-15-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-15-2.png',
+                title: '37° JIC X NPT(SAE 070425)'
+            },
+        ]
+    },
+    {
+        id: 16,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-16.jpg',
+        title: 'FLAIR MALE RUN TEE , 37° JIC X NPT (MALE) X 37° JIC(SAE 070424)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-16-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-16-2.png',
+                title: '37° JIC X NPT (MALE) X 37° JIC(SAE 070424)'
+            },
+        ]
+    },
+    {
+        id: 17,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-17.jpg',
+        title: 'FLAIR FEMALE BRANCH TEE , 37° JIC X 37° JIC X NPT (FEMALE)(SAE 070427)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-17-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-17-2.png',
+                title: '37° JIC X 37° JIC X NPT (FEMALE)(SAE 070427)'
+            },
+        ]
+    },
+    {
+        id: 18,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-18.jpg',
+        title: 'FLAIR FEMALE RUN TEE, 37° JIC X NPT (FEMALE) X 37° JIC(SAE 070426)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-18-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-18-2.png',
+                title: '37° JIC X NPT (FEMALE) X 37° JIC(SAE 070426)'
+            },
+        ]
+    },
+    {
+        id: 19,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-19.jpg',
+        title: 'FLAIR UNION TEE, 37° JIC(SAE 070401)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-19-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-19-2.png',
+                title: '37° JIC(SAE 070401)'
+            },
+        ]
+    },
+    {
+        id: 20,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-20.jpg',
+        title: 'FLAIR SWIVEL RUN TEE, 37° JIC X 37° JIC (FEMALE SWIVEL) X 37° JIC (SAE 070432)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-20-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-20-2.png',
+                title: '37° JIC X 37° JIC (FEMALE SWIVEL) X 37° JIC (SAE 070432)'
+            },
+        ]
+    },
+    {
+        id: 21,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-21.jpg',
+        title: 'FLAIR SWIVEL BRANCH TEE, 37° JIC X 37° JIC X 37° JIC (FEMALE SWIVEL) (SAE 070433)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-21-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-21-2.png',
+                title: '37° JIC X 37° JIC X 37° JIC (FEMALE SWIVEL) (SAE 070433)'
+            },
+        ]
+    },
+    {
+        id: 22,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-22.jpg',
+        title: 'FLAIR UNION CROSS, 37° JIC X 37° JIC X 37° JIC (FEMALE SWIVEL) (SAE 070433)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-22-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-22-2.png',
+                title: '37° JIC X 37° JIC X 37° JIC (FEMALE SWIVEL) (SAE 070433)'
+            },
+        ]
+    },
+    {
+        id: 23,
+        URL: 'flairConnector',
+        imageURL: '/img/flair-connector-23.jpg',
+        title: 'FLAIR ADJUSTABLE MALE ELBOW, 37° JIC X SAE / MS(SAE 070220)',
+        img: [
+            {
+                imageURL: '/img/flair-connector-23-1.png',
+            },
+            {
+                imageURL: '/img/flair-connector-23-2.png',
+                title: '37° JIC X SAE / MS(SAE 070220)'
+            },
+        ]
+    },
+]
+
+
+export const weldFitting = [
+    {
+        id: 1,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-1.jpg',
+        title: 'MALE CONNECTOR - TUBE SOCKET WELD (FRACTIONAL) X MALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-1-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-1-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X MALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 2,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-2.jpg',
+        title: 'MALE CONNECTOR - TUBE SOCKET WELD (METRIC) X MALE PIPE THREADS (NPT))',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-2-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-2-2.png',
+                title: 'TUBE SOCKET WELD (METRIC) X MALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 3,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-3.jpg',
+        title: 'FEMALE CONNECTOR - TUBE SOCKET WELD (FRACTIONAL) X FEMALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-3-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-3-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X FEMALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 4,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-4.jpg',
+        title: 'FEMALE CONNECTOR - TUBE SOCKET WELD (METRIC) X FEMALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-4-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-4-2.png',
+                title: 'TUBE SOCKET WELD (METRIC) X FEMALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 5,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-5.jpg',
+        title: 'MALE ELBOW - TUBE SOCKET WELD (FRACTIONAL) X MALE PIPE THREADS',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-5-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-5-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X MALE PIPE THREADS'
+            },
+        ]
+    },
+    {    
+        id: 6,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-6.jpg',
+        title: 'FEMALE ELBOW - TUBE SOCKET WELD (FRACTIONAL) X FEMALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-6-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-6-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X FEMALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 7,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-7.jpg',
+        title: 'MALE RUN TEE - TUBE SOCKET WELD (FRACTIONAL) X MALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-7-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-7-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X MALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 8,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-8.jpg',
+        title: 'MALE BRANCH TEE - TUBE SOCKET WELD (FRACTIONAL) X MALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-8-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-8-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X MALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 9,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-9.jpg',
+        title: 'UNION ELBOW - TUBE SOCKET WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-9-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-9-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 10,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-10.jpg',
+        title: 'UNION ELBOW - TUBE SOCKET WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-10-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-10-2.png',
+                title: 'TUBE SOCKET WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 11,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-11.jpg',
+        title: 'UNION - TUBE SOCKET WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-11-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-11-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 12,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-12.jpg',
+        title: 'UNION - TUBE SOCKET WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-12-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-12-2.png',
+                title: 'TUBE SOCKET WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 13,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-13.jpg',
+        title: 'FEMALE TEE- TUBE SOCKET WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-13-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-13-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 14,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-14.jpg',
+        title: 'FEMALE TEE- TUBE SOCKET WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-14-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-14-2.png',
+                title: 'TUBE SOCKET WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 15,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-15.jpg',
+        title: 'UNION CROSS- TUBE SOCKET WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-15-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-15-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 16,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-16.jpg',
+        title: 'UNION CROSS- TUBE SOCKET WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-16-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-16-2.png',
+                title: 'TUBE SOCKET WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 17,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-17.jpg',
+        title: 'REDUCING UNION - TUBE SOCKET WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-17-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-17-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 18,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-18.jpg',
+        title: 'REDUCING UNION - TUBE SOCKET WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-18-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-18-2.png',
+                title: 'TUBE SOCKET WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 19,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-19.jpg',
+        title: 'REDUCING UNION - TUBE SOCKET WELD (FRACTIONAL) X TUBE SOCKET WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-19-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-19-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X TUBE SOCKET WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 20,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-20.jpg',
+        title: 'UNION 45° ELBOW - TUBE SOCKET WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-20-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-20-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 21,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-21.jpg',
+        title: 'UNION 45° ELBOW - TUBE SOCKET WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-21-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-21-2.png',
+                title: 'TUBE SOCKET WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 22,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-22.jpg',
+        title: 'MALE CONNECTOR - PIPE SOCKET WELD X MALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-22-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-22-2.png',
+                title: 'PIPE SOCKET WELD X MALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 23,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-23.jpg',
+        title: 'FEMALE CONNECTOR - PIPE SOCKET WELD X FEMALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-23-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-23-2.png',
+                title: 'PIPE SOCKET WELD X FEMALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 24,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-24.jpg',
+        title: 'UNION - PIPE SOCKET WELD',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-24-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-24-2.png',
+                title: 'PIPE SOCKET WELD'
+            },
+        ]
+    },
+    {    
+        id: 25,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-25.jpg',
+        title: 'MALE CONNECTOR - TUBE BUTT WELD (FRACTIONAL) X MALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-25-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-25-2.png',
+                title: 'TUBE BUTT WELD (FRACTIONAL) X MALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 26,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-26.jpg',
+        title: 'MALE CONNECTOR - TUBE BUTT WELD (METRIC) X MALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-26-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-26-2.png',
+                title: 'TUBE BUTT WELD (METRIC) X MALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 27,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-27.jpg',
+        title: 'FEMALE CONNECTOR - TUBE BUTT WELD (FRACTIONAL) X FEMALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-27-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-27-2.png',
+                title: 'TUBE BUTT WELD (FRACTIONAL) X FEMALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 28,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-28.jpg',
+        title: 'FEMALE CONNECTOR - TUBE BUTT WELD (METRIC) X FEMALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-28-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-28-2.png',
+                title: 'TUBE BUTT WELD (METRIC) X FEMALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 29,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-29.jpg',
+        title: 'REDUCING UNION - TUBE BUTT WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-29-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-29-2.png',
+                title: 'TUBE BUTT WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 30,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-30.jpg',
+        title: 'REDUCING UNION - TUBE BUTT WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-30-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-30-2.png',
+                title: 'TUBE BUTT WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 31,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-31.jpg',
+        title: 'UNION ELBOW - TUBE BUTT WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-31-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-31-2.png',
+                title: 'TUBE BUTT WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 32,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-32.jpg',
+        title: 'UNION ELBOW - TUBE BUTT WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-32-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-32-2.png',
+                title: 'TUBE BUTT WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 33,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-33.jpg',
+        title: 'UNION TEE - TUBE BUTT WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-33-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-33-2.png',
+                title: 'TUBE BUTT WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 34,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-34.jpg',
+        title: 'UNION TEE - TUBE BUTT WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-34-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-34-2.png',
+                title: 'TUBE BUTT WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 35,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-35.jpg',
+        title: 'UNION CROSS - TUBE BUTT WELD (FRACTIONAL)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-35-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-35-2.png',
+                title: 'TUBE BUTT WELD (FRACTIONAL)'
+            },
+        ]
+    },
+    {    
+        id: 36,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-36.jpg',
+        title: 'UNION CROSS - TUBE BUTT WELD (METRIC)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-36-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-36-2.png',
+                title: 'TUBE BUTT WELD (METRIC)'
+            },
+        ]
+    },
+    {    
+        id: 37,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-37.jpg',
+        title: 'MALE CONNECTOR - PIPE BUTT WELD X MALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-37-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-37-2.png',
+                title: 'PIPE BUTT WELD X MALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 38,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-38.jpg',
+        title: 'FEMALE CONNECTOR - PIPE BUTT WELD X FEMALE PIPE THREADS (NPT)',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-38-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-38-2.png',
+                title: 'PIPE BUTT WELD X FEMALE PIPE THREADS (NPT)'
+            },
+        ]
+    },
+    {    
+        id: 39,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-39.jpg',
+        title: 'WELD ADAPTER - TUBE SOCKET WELD (FRACTIONAL) X PIPE BUTT WELD',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-39-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-39-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X PIPE BUTT WELD'
+            },
+        ]
+    },
+    {    
+        id: 40,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-40.jpg',
+        title: 'ADAPTOR - TUBE SOCKET WELD (FRACTIONAL) X PIPE BUTT WELD',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-40-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-40-2.png',
+                title: 'TUBE SOCKET WELD (FRACTIONAL) X PIPE BUTT WELD'
+            },
+        ]
+    },
+    {    
+        id: 41,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-41.jpg',
+        title: 'PIPE TO TUBE BUTT WELD - FEMALE ISO PARALLEL / BSPP PIPETHREADS X TUBE BUTT WELD (METRIC) ',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-41-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-41-2.png',
+                title: 'FEMALE ISO PARALLEL / BSPP PIPETHREADS X TUBE BUTT WELD (METRIC) '
+            },
+        ]
+    },
+    {    
+        id: 42,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-42.jpg',
+        title: 'PIPE TO TUBE BUTT WELD - FEMALE METRIC PIPE THREAD X TUBE BUTT WELD (METRIC) ',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-42-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-42-2.png',
+                title: 'FEMALE METRIC PIPE THREAD X TUBE BUTT WELD (METRIC) '
+            },
+        ]
+    },
+    {    
+        id: 43,
+        URL: 'weldFitting',
+        imageURL: '/img/weld-fitting-43.jpg',
+        title: 'MALE PIPE TO TUBE BUTT WELD - MALE NPT PIPE X TUBE BUTT WELD (METRIC) ',
+        img: [
+            {
+                imageURL: '/img/weld-fitting-43-1.png',
+            },
+            {
+                imageURL: '/img/weld-fitting-43-2.png',
+                title: 'MALE NPT PIPE X TUBE BUTT WELD (METRIC) '
+            },
+        ]
+    },
+]

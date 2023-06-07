@@ -24,6 +24,10 @@ import PressureGauge from './pages/PressureGauge/PressureGauge';
 import BallValve from './pages/BallValve/BallValve';
 import BallValveType from './pages/BallValve/BallValveType';
 import BallValveDetails from './pages/BallValve/BallValveDetails';
+import FlairConnector from './pages/FlairConnector/FlairConnector';
+import FlairConnectorDetails from './pages/FlairConnector/FlairConnectorDetails';
+import WeldFitting from './pages/WeldFitting/WeldFitting';
+import WeldFittingDetails from './pages/WeldFitting/WeldFittingDetails';
 
 function App() {
     const Layout = () => {
@@ -124,6 +128,22 @@ function App() {
                 {
                     path: '/ballvalve/:type/:id',
                     element: <BallValveDetails />
+                },
+                {
+                    path: '/flairconnector',
+                    element: <FlairConnector />
+                },
+                {
+                    path: '/flairConnector/:id',
+                    element: <FlairConnectorDetails />
+                },
+                {
+                    path: '/weldfitting',
+                    element: <WeldFitting />
+                },
+                {
+                    path: '/weldfitting/:id',
+                    element: <WeldFittingDetails />
                 }
             ]
         }

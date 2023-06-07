@@ -48,12 +48,12 @@ const Sidebar = () => {
                         <FaFeatherAlt />&nbsp;Ball Valve
                     </div>
                 </Link>
-                <Link className='link'>
+                <Link className='link' to='/flairconnector'>
                     <div className="menu-item">
                         <FaFeatherAlt />&nbsp;Flair Connector
                     </div>
                 </Link>
-                <Link className='link'>
+                <Link className='link' to='/weldfitting'>
                     <div className="menu-item">
                         <FaFeatherAlt />&nbsp;Weild Fitting
                     </div>
