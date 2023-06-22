@@ -20,3 +20,11 @@
         
     }
 }
+
+@media only screen and (max-width: 600px){
+    .productDetail{
+        img{
+            max-width: 300px;
+        }
+    }
+}

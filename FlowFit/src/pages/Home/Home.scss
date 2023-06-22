@@ -43,3 +43,34 @@
         }
     }
 }
+
+@media only screen and (max-width: 600px){
+    .home{
+        width: 100%;
+        background-color: #999;
+        .container{
+            background-color: aqua;
+            width: 90%;
+            .carousel{
+                margin-top: 60px;
+            }
+
+            .products{
+                width: 100%;
+                .product{
+                    display: flex;
+                    flex-direction: column;
+                }
+            }
+
+            .industries{
+                .industry{
+                    display: flex;
+                    flex-direction: column;
+                }
+            }
+        }
+
+        
+    }
+}

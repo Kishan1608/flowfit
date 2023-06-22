@@ -4,7 +4,7 @@ import { tubeFitting } from '../../data';
 import './Products.scss';
 import ProductCard from '../../components/productCard/ProductCard';
 
-const DoubleFerrule = () => {
+const DoubleFerrule = () => { 
   const[showProduct, setShowProduct] = useState(true);
   return (
     <div className="main">

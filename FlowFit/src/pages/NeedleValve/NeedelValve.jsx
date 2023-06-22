@@ -6,7 +6,7 @@ import ProductCard from '../../components/productCard/ProductCard';
 
 
 const NeedelValve = () => {
-  return (
+  return ( 
     <div className="needleValve">
         <div className="container">
             <Sidebar />

@@ -24,3 +24,17 @@
         }
     }
 }
+
+@media only screen and (max-width: 600px){
+    .Series{
+        .container{
+            display: flex;
+            flex-direction: column-reverse;
+            margin-top: 40px;
+            .prod{
+                display: flex;
+                flex-direction: column;
+            }
+        }
+    }
+}

@@ -8,7 +8,7 @@ import './Home.scss';
 const Home = () => {
   return (
     <div className='home'>
-      <div className="container">
+      <div className="container"> 
         <div className="carousel">
           <Carousel>
             <div>

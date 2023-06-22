@@ -1,12 +1,22 @@
 import React, { useState } from 'react'
 import {Link} from 'react-router-dom';
 import {AiFillCaretDown} from 'react-icons/ai';
+import {HiMenuAlt2} from 'react-icons/hi';
 import './Navbar.scss';
 
 const Navbar = () => {
     const[open ,setOpen] = useState(false);
+    const[responsive, setResponsive] = useState(false);
+
+    const menuClick = () => {
+        setResponsive(!responsive);
+    }
   return (
     <div className="navbar">
+        <div className="menu-icon" onClick={menuClick}>
+            <HiMenuAlt2 style={{fontSize: '28px', color: '#fff',padding: '5px'}}/>
+            <p>Flowfit Engineering.</p>
+        </div>
         <div className="container">
             <div className="logo">
                 <Link to='/' className='link'>
@@ -28,20 +38,20 @@ const Navbar = () => {
             </div>
         </div>
         <hr />
-        <div className='menu'>
-            <div>
+        <div className={`menu${responsive?"responsive":""}`}>
+            <div className='menuitem' onClick={() => setResponsive(!responsive)}>
                 <Link className='link' to='/'>Home</Link>
             </div>
-            <div>
+            <div className='menuitem' onClick={() => setResponsive(!responsive)}>
                 <Link className='link' to='/about'>About Us</Link>
             </div>
-            <div>
+            <div className='menuitem' onClick={() => setResponsive(!responsive)}>
                 <Link className='link' to='/services'>Services</Link>
             </div>
-            <div>
-                <div className='prod' onClick={() =>{setOpen(!open)}}>Products <AiFillCaretDown />
+            <div className='menuitem'>
+                <div className='prod' onClick={() =>{setOpen(!open);}}>Products <AiFillCaretDown />
                 {
-                    open && <div className="options"> 
+                    open && <div className="options" onClick={() => setResponsive(!responsive)}> 
                         <Link className='link' to='/doubleferrule'>Double Ferrule</Link>
                         <Link className='link' to='/pipefitting'>Pipe Fitting</Link>
                         <Link className='link' to='/needleValve'>Needle Valve</Link>
@@ -56,7 +66,7 @@ const Navbar = () => {
                 }
                 </div>
             </div>
-            <div>
+            <div className='menuitem' onClick={() => setResponsive(!responsive)}>
                 <Link className='link' to='contact'>Contact</Link>
             </div>
         </div>

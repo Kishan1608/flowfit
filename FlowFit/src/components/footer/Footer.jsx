@@ -44,7 +44,7 @@ const Footer = () => {
         </div>
         <div className="top">
           <div className="desc">
-            <img src="/img/flowfit.jpeg" alt="" />
+            <img className="logo" src="/img/flowfit.jpeg" alt="" />
             <p>Flowfit Engineering follows strict quality control procedure and our experience personals are well versed. In the technical procedure of the home and overseas market. Competitive prices and timely delivery of the product are our main forte.</p>
             <div className="social-links">
               <div className="link">
@@ -63,20 +63,22 @@ const Footer = () => {
               </Link>
             </div>
           </div>
-          <div className="quick-links">
-            <h2>Quick Links</h2>
-            <p><Link to='/' className='link'>Home</Link></p>
-            <p><Link to='/about' className='link'>About Us</Link></p>
-            <p> <Link to='/services' className='link'>Services</Link></p>
-            <p> <Link to='/contact' className='link'>Contact Us</Link></p>
-          </div>
-          <div className="products">
-            <h2>Our Products</h2>
-            <p><Link to='/ballvalve' className='link'>Ball Valve</Link></p>
-            <p><Link to='/needleValve' className='link'>Needle Valve</Link></p>
-            <p><Link to='/checkValve' className='link'>Check Valve</Link></p>
-            <p><Link to='/manifoldValve' className='link'>Manifold Valve</Link></p>
-            <p><Link to='/thermowell' className='link'>Thermo Valve</Link></p>
+          <div className='footerlinks'>
+            <div className="quick-links">
+              <h2>Quick Links</h2>
+              <p><Link to='/' className='link'>Home</Link></p>
+              <p><Link to='/about' className='link'>About Us</Link></p>
+              <p> <Link to='/services' className='link'>Services</Link></p>
+              <p> <Link to='/contact' className='link'>Contact Us</Link></p>
+            </div>
+            <div className="products">
+              <h2>Our Products</h2>
+              <p><Link to='/ballvalve' className='link'>Ball Valve</Link></p>
+              <p><Link to='/needleValve' className='link'>Needle Valve</Link></p>
+              <p><Link to='/checkValve' className='link'>Check Valve</Link></p>
+              <p><Link to='/manifoldValve' className='link'>Manifold Valve</Link></p>
+              <p><Link to='/thermowell' className='link'>Thermo Valve</Link></p>
+            </div>
           </div>
         </div>
         
